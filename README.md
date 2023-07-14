@@ -6,5 +6,5 @@ A lightweight and customizable button component for React.
 
 You can install the package via npm:
 
-npm install simple-react-button
+npm install @mdasifraza/button-package
 
