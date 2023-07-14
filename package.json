@@ -1,12 +1,13 @@
 {
   "name": "@mdasifraza/button-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple button package",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
   "author": "Md Asif Raza",
   "license": "ISC",
+  "private":"false",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/mdasifraza"
   },
