@@ -7,6 +7,9 @@
   "types": "dist/index.d.ts",
   "author": "Md Asif Raza",
   "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/mdasifraza"
+  },
   "files": [
     "dist"
   ],
